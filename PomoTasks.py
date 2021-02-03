@@ -17,7 +17,7 @@ def click():
 app = tk.Tk()
 app.title("PomoTasks")
 app.configure(background="#769fcd")
-app.geometry("600x701")
+app.geometry("600x700")
 
 #Labels
 timer_label = tk.Label(app,bg="#769fcd", font="none 12 bold", fg="#f7fbfc")
